@@ -3,7 +3,7 @@ repo: status.app.ktu.in
 
 sites:
   - name: KTU Main Website
-    url: https://ktu.edu.in
+    url: https://ktu.edu.in/
     # This fixes that SSL/curl error we saw earlier!
     __dangerous__disable_verify_peer: true 
     # Optional: Look for a specific word to ensure it's not a blank page
