@@ -4,7 +4,9 @@ repo: status.app.ktu.in
 sites:
   - name: KTU Main Website
     url: https://ktu.edu.in/
-    # This fixes that SSL/curl error we saw earlier!
     __dangerous__disable_verify_peer: true 
-    # Optional: Look for a specific word to ensure it's not a blank page
     __dangerous__body_down: "Internal Server Error"
+
+status-website:
+  # Crucial: Leading and trailing slashes are required for sub-folders
+  baseUrl: /status.app.ktu.in/
