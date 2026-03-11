@@ -1,7 +1,7 @@
 [
   {
     "name": "KTU Main Website",
-    "url": "https://ktu.edu.in",
+    "url": "https://ktu.edu.in/",
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "ktu-main-website",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1778,
-    "timeDay": 1778,
-    "timeWeek": 1778,
-    "timeMonth": 1778,
-    "timeYear": 1778,
+    "time": 1799,
+    "timeDay": 1799,
+    "timeWeek": 1799,
+    "timeMonth": 1799,
+    "timeYear": 1799,
     "dailyMinutesDown": {}
   }
 ]
