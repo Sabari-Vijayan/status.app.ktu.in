@@ -4,17 +4,19 @@
     "url": "https://ktu.edu.in/",
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "ktu-main-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3167,
-    "timeDay": 1745,
-    "timeWeek": 2254,
-    "timeMonth": 3250,
-    "timeYear": 3167,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "78.91%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.43%",
+    "time": 3130,
+    "timeDay": 1697,
+    "timeWeek": 2178,
+    "timeMonth": 3200,
+    "timeYear": 3130,
+    "dailyMinutesDown": {
+      "2026-04-17": 304
+    }
   }
 ]
