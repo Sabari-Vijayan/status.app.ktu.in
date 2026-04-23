@@ -4,7 +4,7 @@
     "url": "https://ktu.edu.in/",
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "ktu-main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.34%",
@@ -16,6 +16,7 @@
     "timeMonth": 3206,
     "timeYear": 3398,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-04-21": 65,
       "2026-04-17": 304
     }
