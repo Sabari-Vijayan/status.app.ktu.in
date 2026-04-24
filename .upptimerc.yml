@@ -21,7 +21,7 @@ sites:
 
 status-website:
   # Crucial: Leading and trailing slashes are required for sub-folders
-  baseUrl: /status.app.ktu.in/
+  baseUrl: /status.app.ktu.in
   # UI Theme
   theme: light
   # Page Title
