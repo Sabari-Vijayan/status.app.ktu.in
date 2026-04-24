@@ -3,10 +3,41 @@ repo: status.app.ktu.in
 
 sites:
   - name: KTU Main Website
-    url: https://ktu.edu.in/
-    __dangerous__disable_verify_peer: true 
+    url: https://ktu.edu.in
+    __dangerous__disable_verify_peer: true
     __dangerous__body_down: "Internal Server Error"
+  - name: e-Governance Portal
+    url: https://app.ktu.edu.in
+    __dangerous__disable_verify_peer: true
+  - name: Results Portal
+    url: https://ktu.edu.in/eu/ex/result.htm
+    __dangerous__disable_verify_peer: true
+  - name: Certificate Verification
+    url: https://ktu.edu.in/eu/auth/verification.htm
+    __dangerous__disable_verify_peer: true
+  - name: Academic Calendar
+    url: https://ktu.edu.in/eu/acad/academicCalendar.htm
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Crucial: Leading and trailing slashes are required for sub-folders
   baseUrl: /status.app.ktu.in/
+  # UI Theme
+  theme: light
+  # Page Title
+  name: KTU Status Dashboard
+  # Logo (using local asset)
+  logoUrl: https://raw.githubusercontent.com/Sabari-Vijayan/status.app.ktu.in/master/assets/upptime-icon.svg
+  # Intro
+  introTitle: "**KTU Services** Live Status"
+  introMessage: "Real-time monitoring for APJ Abdul Kalam Technological University (KTU) official portals. This dashboard tracks uptime and response times to help students and faculty stay informed."
+  # Navigation
+  navbar:
+    - title: Status
+      href: /
+    - title: KTU Website
+      href: https://ktu.edu.in
+    - title: Student Login
+      href: https://app.ktu.edu.in
+    - title: GitHub
+      href: https://github.com/Sabari-Vijayan/status.app.ktu.in
