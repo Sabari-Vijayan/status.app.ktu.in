@@ -1,6 +1,9 @@
 owner: Sabari-Vijayan
 repo: status.app.ktu.in
 
+workflowSchedule:
+  responseTime: "0 * * * *"
+
 sites:
   - name: KTU Main Website
     url: https://ktu.edu.in
@@ -26,11 +29,19 @@ status-website:
   theme: light
   # Page Title
   name: KTU Status Dashboard
+  metaDescription: "Real-time status and uptime monitoring for APJ Abdul Kalam Technological University (KTU) portals including the Main Website, e-Governance Portal, and Results Portal."
+  # Using the new logo as the social preview image
+  metaImage: https://raw.githubusercontent.com/Sabari-Vijayan/status.app.ktu.in/master/assets/ktu-status-logo-1.svg
+  metaTags:
+    - name: "theme-color"
+      content: "#34c759"
+    - name: "robots"
+      content: "index, follow"
   # Logo (using local asset)
-  logoUrl: https://raw.githubusercontent.com/Sabari-Vijayan/status.app.ktu.in/master/assets/upptime-icon.svg
+  logoUrl: https://raw.githubusercontent.com/Sabari-Vijayan/status.app.ktu.in/master/assets/ktu-status-logo-1.svg
   # Intro
   introTitle: "**KTU Services** Live Status"
-  introMessage: "Real-time monitoring for APJ Abdul Kalam Technological University (KTU) official portals. This dashboard tracks uptime and response times to help students and faculty stay informed."
+  introMessage: "Real-time monitoring for APJ Abdul Kalam Technological University (KTU) official portals. This dashboard tracks uptime and response times to help students and faculty stay informed.\n\nMade with pure spite 💚 [Contribute on GitHub](https://github.com/Sabari-Vijayan/status.app.ktu.in)"
   # Navigation
   navbar:
     - title: Status
