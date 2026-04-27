@@ -35,6 +35,12 @@ This dashboard provides high-frequency monitoring of critical KTU portals to ens
 - **Response Time Tracking:** Recorded every **30 minutes**.
 - **Graphs & Data Updates:** Summaries and visualizations are regenerated every hour.
 
+### 📅 Historical Monitoring Notes (for Data Analysis)
+If you are performing historical analysis on the data in this repository, please note the following frequency changes:
+- **Before April 26, 2026:** Response time checks were performed approximately **1-2 times per day** (daily summary).
+- **From April 26, 2026 onwards:** Response time tracking was increased to every **30 minutes** to provide more granular performance data.
+- **Uptime Monitoring:** Has consistently been maintained at **5-minute intervals** since project inception.
+
 ### 🔍 Tracking Methodology
 - **Uptime Monitoring:** We use GitHub Actions to ping each endpoint every **5 minutes**. A site is considered **Up** only if it returns a **2xx HTTP status code**.
 - **Response Time:** We measure the latency of each portal every **30 minutes** to track performance trends and detect slowdowns.
