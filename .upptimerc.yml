@@ -2,7 +2,7 @@ owner: Sabari-Vijayan
 repo: status.app.ktu.in
 
 workflowSchedule:
-  responseTime: "0 * * * *"
+  responseTime: "*/30 * * * *"
 
 sites:
   - name: KTU Main Website

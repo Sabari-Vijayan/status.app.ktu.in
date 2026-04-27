@@ -26,6 +26,26 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://Sabari-Vijayan.github.io/status.app.ktu.in)
 
+## 📊 Monitoring Details
+
+This dashboard provides high-frequency monitoring of critical KTU portals to ensure transparency and accessibility for students and faculty.
+
+### 🕒 Frequency of Checks
+- **Uptime Monitoring:** Checked every **5 minutes**.
+- **Response Time Tracking:** Recorded every **30 minutes**.
+- **Graphs & Data Updates:** Summaries and visualizations are regenerated every hour.
+
+### 🔍 Tracking Methodology
+- **Uptime Monitoring:** We use GitHub Actions to ping each endpoint every **5 minutes**. A site is considered **Up** only if it returns a **2xx HTTP status code**.
+- **Response Time:** We measure the latency of each portal every **30 minutes** to track performance trends and detect slowdowns.
+- **Error Detection & Codes:** 
+  - **HTTP Failures:** Any response code outside the 200-299 range (e.g., 403 Forbidden, 404 Not Found, 500 Internal Server Error, 503 Service Unavailable) triggers a downtime alert.
+  - **Content Validation:** For critical portals, we check for specific "down" indicators in the response body (e.g., `"Internal Server Error"` text) to catch failures that might improperly return a 200 OK status.
+  - **SSL/TLS:** We monitor SSL certificate validity to ensure secure access.
+
+### 📥 Data Usage
+If you are using the raw data from the `history/` or `api/` directories for your own analysis, please ensure you perform a **`git pull`** first. The data is updated automatically by our automated workflows multiple times per hour.
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
