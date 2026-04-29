@@ -26,19 +26,19 @@
     "url": "https://app.ktu.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/app.ktu.edu.in.ico",
     "slug": "e-governance-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3549,
-    "timeDay": 4207,
-    "timeWeek": 3549,
-    "timeMonth": 3549,
-    "timeYear": 3549,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 3597,
+    "timeDay": 4382,
+    "timeWeek": 3597,
+    "timeMonth": 3597,
+    "timeYear": 3597,
     "dailyMinutesDown": {
-      "2026-04-29": 0
+      "2026-04-29": 52
     }
   },
   {
