@@ -4,17 +4,17 @@
     "url": "https://ktu.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "ktu-main-website",
-    "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "96.94%",
-    "uptimeYear": "98.32%",
-    "time": 3551,
-    "timeDay": 5713,
-    "timeWeek": 3888,
+    "status": "up",
+    "uptime": "98.09%",
+    "uptimeDay": "80.14%",
+    "uptimeWeek": "95.74%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "98.09%",
+    "time": 3556,
+    "timeDay": 5641,
+    "timeWeek": 3898,
     "timeMonth": 3738,
-    "timeYear": 3551,
+    "timeYear": 3556,
     "dailyMinutesDown": {
       "2026-04-17": 304,
       "2026-04-21": 65,
@@ -26,7 +26,7 @@
       "2026-05-16": 904,
       "2026-05-26": 36,
       "2026-05-29": 144,
-      "2026-06-03": 1
+      "2026-06-03": 286
     }
   },
   {
@@ -34,17 +34,17 @@
     "url": "https://app.ktu.edu.in",
     "icon": "https://icons.duckduckgo.com/ip3/app.ktu.edu.in.ico",
     "slug": "e-governance-portal",
-    "status": "down",
-    "uptime": "96.69%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "96.01%",
-    "uptimeYear": "96.69%",
-    "time": 3888,
-    "timeDay": 4138,
-    "timeWeek": 4445,
-    "timeMonth": 3958,
-    "timeYear": 3888,
+    "status": "up",
+    "uptime": "96.21%",
+    "uptimeDay": "80.16%",
+    "uptimeWeek": "95.41%",
+    "uptimeMonth": "95.36%",
+    "uptimeYear": "96.21%",
+    "time": 3893,
+    "timeDay": 4069,
+    "timeWeek": 4447,
+    "timeMonth": 3957,
+    "timeYear": 3893,
     "dailyMinutesDown": {
       "2026-04-29": 52,
       "2026-04-30": 25,
@@ -58,7 +58,7 @@
       "2026-05-26": 36,
       "2026-05-29": 144,
       "2026-05-30": 34,
-      "2026-06-03": 1
+      "2026-06-03": 286
     }
   },
   {
@@ -66,16 +66,16 @@
     "url": "https://ktu.edu.in/eu/ex/result.htm",
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "results-portal",
-    "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "97.66%",
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "80.17%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "96.62%",
+    "uptimeYear": "97.17%",
     "time": 1770,
-    "timeDay": 2607,
-    "timeWeek": 2430,
-    "timeMonth": 2275,
+    "timeDay": 2566,
+    "timeWeek": 2431,
+    "timeMonth": 2291,
     "timeYear": 1770,
     "dailyMinutesDown": {
       "2026-05-01": 78,
@@ -83,7 +83,7 @@
       "2026-05-17": 255,
       "2026-05-16": 904,
       "2026-05-26": 36,
-      "2026-06-03": 1
+      "2026-06-03": 285
     }
   },
   {
@@ -91,16 +91,16 @@
     "url": "https://ktu.edu.in/eu/auth/verification.htm",
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "certificate-verification",
-    "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "97.66%",
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "80.20%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "96.62%",
+    "uptimeYear": "97.17%",
     "time": 1769,
-    "timeDay": 2068,
-    "timeWeek": 2638,
-    "timeMonth": 2273,
+    "timeDay": 2082,
+    "timeWeek": 2580,
+    "timeMonth": 2290,
     "timeYear": 1769,
     "dailyMinutesDown": {
       "2026-05-01": 78,
@@ -108,7 +108,7 @@
       "2026-05-17": 255,
       "2026-05-16": 904,
       "2026-05-26": 36,
-      "2026-06-03": 0
+      "2026-06-03": 285
     }
   },
   {
@@ -116,16 +116,16 @@
     "url": "https://ktu.edu.in/eu/acad/academicCalendar.htm",
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "academic-calendar",
-    "status": "down",
-    "uptime": "97.66%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.27%",
-    "uptimeYear": "97.66%",
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "80.21%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "96.62%",
+    "uptimeYear": "97.17%",
     "time": 1581,
-    "timeDay": 2368,
-    "timeWeek": 2005,
-    "timeMonth": 2024,
+    "timeDay": 2462,
+    "timeWeek": 2006,
+    "timeMonth": 2039,
     "timeYear": 1581,
     "dailyMinutesDown": {
       "2026-05-01": 78,
@@ -133,7 +133,7 @@
       "2026-05-17": 255,
       "2026-05-16": 903,
       "2026-05-26": 35,
-      "2026-06-03": 0
+      "2026-06-03": 285
     }
   }
 ]
