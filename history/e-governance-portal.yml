@@ -1,7 +1,7 @@
 url: https://app.ktu.edu.in
-status: up
-code: 200
-responseTime: 2640
-lastUpdated: 2026-10-07T02:30:14.983Z
+status: down
+code: 503
+responseTime: 1005
+lastUpdated: 2026-10-07T08:56:48.554Z
 startTime: 2026-04-24T11:49:48.543Z
 generator: Upptime <https://github.com/upptime/upptime>
