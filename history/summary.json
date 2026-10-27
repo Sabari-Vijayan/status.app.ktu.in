@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "ktu-main-website",
     "status": "down",
-    "uptime": "97.30%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.30%",
+    "uptime": "96.90%",
+    "uptimeDay": "6.80%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.90%",
     "time": 4051,
-    "timeDay": 2866,
-    "timeWeek": 3116,
-    "timeMonth": 3636,
+    "timeDay": 0,
+    "timeWeek": 3096,
+    "timeMonth": 3515,
     "timeYear": 4051,
     "dailyMinutesDown": {
       "2026-04-17": 304,
@@ -38,7 +38,8 @@
       "2026-09-24": 638,
       "2026-09-23": 1440,
       "2026-09-22": 1074,
-      "2026-10-26": 1
+      "2026-10-27": 286,
+      "2026-10-26": 1056
     }
   },
   {
@@ -47,15 +48,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.ktu.edu.in.ico",
     "slug": "e-governance-portal",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.59%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.14%",
     "time": 4056,
-    "timeDay": 3897,
-    "timeWeek": 3950,
-    "timeMonth": 4134,
+    "timeDay": 3911,
+    "timeWeek": 3833,
+    "timeMonth": 4124,
     "timeYear": 4056,
     "dailyMinutesDown": {
       "2026-04-29": 52,
@@ -99,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "results-portal",
     "status": "down",
-    "uptime": "96.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.92%",
+    "uptime": "96.43%",
+    "uptimeDay": "6.82%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.43%",
     "time": 2521,
-    "timeDay": 2187,
-    "timeWeek": 2309,
-    "timeMonth": 2759,
+    "timeDay": 0,
+    "timeWeek": 2354,
+    "timeMonth": 2730,
     "timeYear": 2521,
     "dailyMinutesDown": {
       "2026-05-01": 78,
@@ -127,7 +128,8 @@
       "2026-09-24": 638,
       "2026-09-23": 1440,
       "2026-09-22": 1074,
-      "2026-10-26": 1
+      "2026-10-27": 286,
+      "2026-10-26": 1056
     }
   },
   {
@@ -136,15 +138,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "certificate-verification",
     "status": "down",
-    "uptime": "96.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.94%",
+    "uptime": "96.45%",
+    "uptimeDay": "6.84%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.45%",
     "time": 2383,
-    "timeDay": 1752,
-    "timeWeek": 1866,
-    "timeMonth": 2419,
+    "timeDay": 0,
+    "timeWeek": 1884,
+    "timeMonth": 2348,
     "timeYear": 2383,
     "dailyMinutesDown": {
       "2026-05-01": 78,
@@ -164,7 +166,8 @@
       "2026-09-24": 638,
       "2026-09-23": 1440,
       "2026-09-22": 1073,
-      "2026-10-26": 1
+      "2026-10-27": 286,
+      "2026-10-26": 1055
     }
   },
   {
@@ -173,15 +176,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktu.edu.in.ico",
     "slug": "academic-calendar",
     "status": "down",
-    "uptime": "96.94%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.94%",
+    "uptime": "96.45%",
+    "uptimeDay": "6.85%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "96.45%",
     "time": 2301,
-    "timeDay": 2566,
-    "timeWeek": 2162,
-    "timeMonth": 2393,
+    "timeDay": 0,
+    "timeWeek": 2166,
+    "timeMonth": 2430,
     "timeYear": 2301,
     "dailyMinutesDown": {
       "2026-05-01": 78,
@@ -201,7 +204,8 @@
       "2026-09-24": 638,
       "2026-09-23": 1440,
       "2026-09-22": 1073,
-      "2026-10-26": 1
+      "2026-10-27": 286,
+      "2026-10-26": 1055
     }
   }
 ]
